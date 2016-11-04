@@ -8,8 +8,8 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Rebootd bliki
+tagline: Various articles on things I find useful or interesting
 author :
   name : rebootd 
   email : rebootd@computerist.co
